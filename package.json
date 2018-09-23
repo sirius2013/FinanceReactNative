@@ -1,5 +1,5 @@
 {
-  "name": "Finance",
+  "name": "Finance app",
   "version": "0.0.1",
   "description": "iOS's Stocks App clone written in React Native for demo purpose. Data is pulled from Yahoo Finance.",
   "main": "index.js",
