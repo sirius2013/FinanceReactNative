@@ -1,6 +1,6 @@
 # FinanceReactNative
 
-[![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](https://david-dm.org/7kfpun/FinanceReactNative) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](https://david-dm.org/7kfpun/FinanceReactNative#info=devDependencies)
+[![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](https://david-dm.org/7kfpun/FinanceReactNative) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](https://david-dm.org/7kfpun/FinanceReactNative#info=devDependencies) 
 
 iOS's Stocks App clone written in [React Native](https://github.com/facebook/react-native) for demo purpose (available both iOS and Android). Data is pulled from [Yahoo Finance](finance.yahoo.com).
 
